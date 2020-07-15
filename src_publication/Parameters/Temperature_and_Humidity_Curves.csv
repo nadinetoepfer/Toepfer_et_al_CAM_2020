@@ -1,0 +1,25 @@
+# ,
+# ,
+# variable parameters ,
+# ,
+# Min_T - minimum temperature in degree C,
+# Max_T - maximum temperature in degree C,
+# Max_H - maximum relative humidity,
+# Min_H - minimum relative humidity,
+# Max_Light  -  maximum light intensity,
+# Day_Length - sigma value for normal distributed light curve,
+# period_T - shift along the time-axis for temperature,
+# period_H - shift along the time-axis for relative humidity,
+# Skew_T - skewness of temperature curve,
+# Skew_H - skewness of  relative humidity curve,
+,
+Min_T,15
+Max_T,30
+Max_H,1
+Min_H,0.4
+Max_Light,250
+Day_Length,12
+period_T,-20.8
+period_H,-20.8
+skew_T,3.2
+skew_H,3.2

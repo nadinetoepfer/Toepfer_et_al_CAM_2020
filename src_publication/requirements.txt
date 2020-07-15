@@ -1,0 +1,4 @@
+cobra==0.13.4
+python-libsbml
+numpy==1.14.3
+
